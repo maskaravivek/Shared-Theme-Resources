@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-LGN6M56</Machine>
+    <WindowsUser>maska</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>dfedd4d2-6ef9-45e1-9178-d22ba1fd5998</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.WindowsPhone\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.WindowsPhone\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.WindowsPhone\bin\x86\Debug\Shared Theme Resources.WindowsPhone.exe">
+      <PackagePath>Shared Theme Resources.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.WindowsPhone\bin\x86\Debug\Shared Theme Resources.WindowsPhone.xr.xml">
+      <PackagePath>Shared Theme Resources.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.WindowsPhone\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.WindowsPhone\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.WindowsPhone\bin\x86\Debug\Themes\SharedResources.xbf">
+      <PackagePath>Themes\SharedResources.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.WindowsPhone\bin\x86\Debug\BlankPage.xbf">
+      <PackagePath>BlankPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.WindowsPhone\bin\x86\Debug\Themes\PlatformSpecificThemes.xbf">
+      <PackagePath>Themes\PlatformSpecificThemes.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.WindowsPhone\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

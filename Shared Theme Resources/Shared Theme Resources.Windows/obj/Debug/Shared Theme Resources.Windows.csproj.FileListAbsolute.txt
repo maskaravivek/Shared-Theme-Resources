@@ -1,0 +1,47 @@
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\bin\Debug\App.xbf
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\bin\Debug\MainPage.xbf
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\bin\Debug\Themes\SharedResources.xbf
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\bin\Debug\Themes\PlatformSpecificThemes.xbf
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\bin\Debug\Shared Theme Resources.Windows.xr.xml
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\bin\Debug\Shared Theme Resources.Windows.exe
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\bin\Debug\Shared Theme Resources.Windows.pdb
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\bin\Debug\resources.pri
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\bin\Debug\AppxManifest.xml
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\bin\Debug\Shared Theme Resources.Windows.build.appxrecipe
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\App.g.i.cs
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\App.g.cs
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\Themes\PlatformSpecificThemes.g.i.cs
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\Themes\PlatformSpecificThemes.g.cs
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\MainPage.g.cs
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\Themes\SharedResources.g.i.cs
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\Themes\SharedResources.g.cs
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\App.xaml
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\Themes\PlatformSpecificThemes.xaml
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\Themes\SharedResources.xaml
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\App.xbf
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\Themes\PlatformSpecificThemes.xbf
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\Themes\SharedResources.xbf
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\MainPage.xaml
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\MainPage.xbf
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\Shared Theme Resources.Windows.exe
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\Shared Theme Resources.Windows.pdb
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\priconfig.xml
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\layout.resfiles
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\resources.resfiles
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\pri.resfiles
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\qualifiers.txt
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\bin\Debug\BlankPage.xbf
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\BlankPage.g.i.cs
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\BlankPage.g.cs
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\BlankPage.xaml
+C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\BlankPage.xbf

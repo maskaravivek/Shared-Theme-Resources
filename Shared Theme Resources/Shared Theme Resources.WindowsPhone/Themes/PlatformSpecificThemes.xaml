@@ -1,0 +1,12 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Shared_Theme_Resources.Themes">
+
+    <Style x:Key="MyTextBlockStyle" TargetType="TextBlock">
+        <Setter Property="Foreground" Value="Green"/>
+        <Setter Property="FontSize" Value="20"/>
+        <Setter Property="Margin" Value="12"/>
+    </Style>
+
+</ResourceDictionary>

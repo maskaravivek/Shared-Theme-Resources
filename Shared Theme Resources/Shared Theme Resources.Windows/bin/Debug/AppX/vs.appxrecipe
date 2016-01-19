@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-LGN6M56</Machine>
+    <WindowsUser>maska</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>498afc29-3f20-4c04-83ce-ac670432202f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>43F91AEC152DF305C055EE758C7EAA38423CBFE518C5049266B0B749FED45262</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>498afc29-3f20-4c04-83ce-ac670432202f_1.0.0.0_neutral__nfc3k07256mtc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>498afc29-3f20-4c04-83ce-ac670432202f_nfc3k07256mtc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>498afc29-3f20-4c04-83ce-ac670432202f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=vivek</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-19T08:09:53.900</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\bin\Debug\Shared Theme Resources.Windows.exe">
+      <PackagePath>Shared Theme Resources.Windows.exe</PackagePath>
+      <Modified>2016-01-19T08:09:53.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T05:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T05:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T05:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-07T05:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\bin\Debug\Shared Theme Resources.Windows.xr.xml">
+      <PackagePath>Shared Theme Resources.Windows.xr.xml</PackagePath>
+      <Modified>2016-01-19T08:09:53.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-01-19T07:52:46.001</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-01-19T08:09:53.540</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\bin\Debug\Themes\SharedResources.xbf">
+      <PackagePath>Themes\SharedResources.xbf</PackagePath>
+      <Modified>2016-01-19T08:09:53.541</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\bin\Debug\BlankPage.xbf">
+      <PackagePath>BlankPage.xbf</PackagePath>
+      <Modified>2016-01-19T08:09:53.538</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\bin\Debug\Themes\PlatformSpecificThemes.xbf">
+      <PackagePath>Themes\PlatformSpecificThemes.xbf</PackagePath>
+      <Modified>2016-01-19T07:52:46.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\maska\Documents\Projects\tutorials\Shared Theme Resources\Shared Theme Resources\Shared Theme Resources.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-01-19T08:09:53.809</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
